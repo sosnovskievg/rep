@@ -1,0 +1,172 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goblin1_fall",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.6833333333333333,
+  "sample": 60,
+  "speed": 0.6,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -12,
+            -138.5
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.6833333333333333,
+          "value": [
+            -12,
+            -138.5
+          ],
+          "motionPath": [
+            [
+              51,
+              -199.7,
+              28.1,
+              -183.8,
+              70.3,
+              -213
+            ]
+          ]
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": [
+            86,
+            -200
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.1,
+          "value": [
+            120.7,
+            -233.4
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.6833333333333333,
+          "value": [
+            120.7,
+            -233.4
+          ],
+          "motionPath": []
+        }
+      ]
+    },
+    "paths": {
+      "goblin_neighbour/ATTACHED_NODE_TREE/ATTACHED_NODE:root/ATTACHED_NODE:main/ATTACHED_NODE:body/ATTACHED_NODE:chest/ATTACHED_NODE:chest2/ATTACHED_NODE:head/light": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.15,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.25,
+              "value": 0
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1.3666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.3833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "goblin_neighbour/ATTACHED_NODE_TREE/ATTACHED_NODE:root/ATTACHED_NODE:main/ATTACHED_NODE:body/ATTACHED_NODE:chest/ATTACHED_NODE:chest2/ATTACHED_NODE:shoulder_r/ATTACHED_NODE:forearm_r/ATTACHED_NODE:hand_r/coin": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.35,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 1.2166666666666666,
+              "value": [
+                10.8,
+                -14.8
+              ],
+              "motionPath": [
+                [
+                  30,
+                  -159,
+                  0,
+                  -128.5,
+                  33.7,
+                  -162.7
+                ]
+              ]
+            },
+            {
+              "frame": 1.6833333333333333,
+              "value": [
+                159.9,
+                -166.2
+              ],
+              "motionPath": []
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1.2166666666666666,
+              "value": 60
+            },
+            {
+              "frame": 1.6833333333333333,
+              "value": 105
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "goblinTake",
+      "params": []
+    },
+    {
+      "frame": 0.6833333333333333,
+      "func": "goblinFall",
+      "params": []
+    }
+  ]
+}

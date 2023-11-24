@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fall",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            24.551,
+            49.766,
+            0
+          ],
+          "curve": "linear"
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": [
+            24.551,
+            -185.252,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.21666666666666667,
+          "value": 255
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

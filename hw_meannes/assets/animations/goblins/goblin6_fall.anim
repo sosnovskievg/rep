@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goblin6_fall",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            40,
+            305
+          ],
+          "motionPath": [
+            [
+              145,
+              319,
+              106,
+              346,
+              182,
+              292
+            ]
+          ]
+        },
+        {
+          "frame": 0.8,
+          "value": [
+            192,
+            197
+          ],
+          "motionPath": []
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.5,
+          "value": 255
+        },
+        {
+          "frame": 0.8,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

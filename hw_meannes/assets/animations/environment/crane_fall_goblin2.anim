@@ -1,0 +1,171 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "crane_fall_goblin2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.23333333333333334,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "rope_crane_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.535,
+                "y": 0,
+                "z": 0.535
+              }
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.535,
+                "y": 0.3,
+                "z": 0.535
+              }
+            },
+            {
+              "frame": 0.15,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.535,
+                "y": 0.5,
+                "z": 0.535
+              }
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.535,
+                "y": 0.3,
+                "z": 0.535
+              }
+            }
+          ],
+          "anchorY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.1,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                18.487,
+                49.331,
+                0
+              ]
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": [
+                18.487,
+                49.331,
+                0
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                18.487,
+                29.531,
+                0
+              ]
+            },
+            {
+              "frame": 0.2,
+              "value": [
+                18.487,
+                -17.11,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "platform": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                17.778,
+                39.131,
+                0
+              ]
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": [
+                17.778,
+                21.237,
+                0
+              ]
+            },
+            {
+              "frame": 0.2,
+              "value": [
+                17.778,
+                -33.791,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "someHolder/rope_crane_damage": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                47.435,
+                51.326,
+                0
+              ]
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": [
+                29.965,
+                60.659,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "someHolder": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "test",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0.3333333333333333,
+          "value": [
+            -17.846,
+            -131.018,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "goblinWalk",
+      "params": []
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "goblinIdle",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a4cee483-fb40-41f0-a969-2b8bab68480a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 198,
+  "height": 130,
+  "platformSettings": {},
+  "subMetas": {
+    "Bridge_fell": {
+      "ver": "1.0.6",
+      "uuid": "6ceb3091-0414-4e82-bdfe-24aeb0aab893",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a4cee483-fb40-41f0-a969-2b8bab68480a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 198,
+      "height": 127,
+      "rawWidth": 198,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

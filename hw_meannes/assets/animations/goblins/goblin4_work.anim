@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goblin4_work",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            243.987,
+            126.412,
+            0
+          ]
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": [
+            243.987,
+            126.412,
+            0
+          ]
+        }
+      ]
+    },
+    "paths": {
+      "goblin_neighbour/ATTACHED_NODE_TREE/ATTACHED_NODE:root/ATTACHED_NODE:main/ATTACHED_NODE:body/ATTACHED_NODE:chest/ATTACHED_NODE:chest2/ATTACHED_NODE:crystal/red_crystal": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.45,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.31666666666666665,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.35,
+              "value": [
+                33.19,
+                -11.962,
+                0
+              ]
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": [
+                -93.565,
+                -199.697,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "goblinTake",
+      "params": []
+    },
+    {
+      "frame": 0.48333333333333334,
+      "func": "goblin4Death",
+      "params": []
+    },
+    {
+      "frame": 0.48333333333333334,
+      "func": "goblinIdle",
+      "params": []
+    }
+  ]
+}

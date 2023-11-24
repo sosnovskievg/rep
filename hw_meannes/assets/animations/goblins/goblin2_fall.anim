@@ -1,0 +1,116 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goblin2_fall",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -164,
+            -186.4,
+            0
+          ]
+        }
+      ]
+    },
+    "paths": {
+      "goblin_neighbour": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": [
+                2.886,
+                14.909,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                2.886,
+                -19.976,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": -90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.18333333333333332,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "overlap_crane": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.08333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "goblin_neighbour/ATTACHED_NODE_TREE/ATTACHED_NODE:root/ATTACHED_NODE:main/ATTACHED_NODE:body/ATTACHED_NODE:chest/ATTACHED_NODE:chest2/ATTACHED_NODE:head/light": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.11666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "goblinFall",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "changeGoblinScale",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goblin5_walk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5833333333333335,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -108.498,
+            205.153,
+            0
+          ]
+        },
+        {
+          "frame": 0.36666666666666664,
+          "value": [
+            -49.203,
+            146.326,
+            0
+          ]
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": [
+            17.727,
+            119.445,
+            0
+          ]
+        },
+        {
+          "frame": 0.85,
+          "value": [
+            46.556,
+            131.132,
+            0
+          ]
+        },
+        {
+          "frame": 1.6666666666666667,
+          "value": [
+            46.556,
+            131.132,
+            0
+          ]
+        },
+        {
+          "frame": 1.8333333333333333,
+          "value": [
+            17.727,
+            119.445,
+            0
+          ]
+        },
+        {
+          "frame": 2.15,
+          "value": [
+            -49.203,
+            146.326,
+            0
+          ]
+        },
+        {
+          "frame": 2.5,
+          "value": [
+            -108.498,
+            205.153,
+            0
+          ]
+        },
+        {
+          "frame": 2.5833333333333335,
+          "value": [
+            -108.498,
+            205.153,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "goblinWalk",
+      "params": []
+    },
+    {
+      "frame": 0.8666666666666667,
+      "func": "goblinIdle",
+      "params": []
+    },
+    {
+      "frame": 1.6666666666666667,
+      "func": "goblinWalk",
+      "params": []
+    },
+    {
+      "frame": 1.6666666666666667,
+      "func": "changeGoblinScale",
+      "params": []
+    },
+    {
+      "frame": 2.5,
+      "func": "goblinIdle",
+      "params": []
+    },
+    {
+      "frame": 2.5,
+      "func": "changeGoblinScale",
+      "params": []
+    }
+  ]
+}

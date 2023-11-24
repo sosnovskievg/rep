@@ -1,0 +1,223 @@
+
+galahad_neighbour.png
+size: 445, 78
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 400, 45
+  size: 31, 13
+  orig: 35, 17
+  offset: 2, 2
+  index: -1
+GRABBER
+  rotate: true
+  xy: 85, 3
+  size: 20, 15
+  orig: 24, 19
+  offset: 2, 2
+  index: -1
+Sword
+  rotate: false
+  xy: 304, 2
+  size: 132, 30
+  orig: 136, 34
+  offset: 2, 2
+  index: -1
+arm_R
+  rotate: true
+  xy: 415, 49
+  size: 27, 24
+  orig: 31, 28
+  offset: 2, 2
+  index: -1
+body
+  rotate: true
+  xy: 302, 34
+  size: 42, 40
+  orig: 45, 44
+  offset: 1, 2
+  index: -1
+fabric
+  rotate: true
+  xy: 273, 33
+  size: 43, 27
+  orig: 45, 29
+  offset: 1, 1
+  index: -1
+face_attak
+  rotate: false
+  xy: 21, 25
+  size: 40, 51
+  orig: 44, 55
+  offset: 2, 2
+  index: -1
+face_cry
+  rotate: false
+  xy: 63, 25
+  size: 40, 51
+  orig: 44, 55
+  offset: 2, 2
+  index: -1
+face_idle
+  rotate: false
+  xy: 105, 25
+  size: 40, 51
+  orig: 44, 55
+  offset: 2, 2
+  index: -1
+face_idle_
+  rotate: false
+  xy: 147, 25
+  size: 40, 51
+  orig: 44, 55
+  offset: 2, 2
+  index: -1
+face_smile
+  rotate: false
+  xy: 189, 25
+  size: 40, 51
+  orig: 44, 55
+  offset: 2, 2
+  index: -1
+face_ult
+  rotate: false
+  xy: 231, 25
+  size: 40, 51
+  orig: 44, 55
+  offset: 2, 2
+  index: -1
+foot_L
+  rotate: true
+  xy: 65, 3
+  size: 20, 18
+  orig: 23, 19
+  offset: 1, 0
+  index: -1
+foot_R
+  rotate: true
+  xy: 45, 2
+  size: 21, 18
+  orig: 24, 19
+  offset: 1, 1
+  index: -1
+forearm_L
+  rotate: false
+  xy: 194, 5
+  size: 16, 18
+  orig: 20, 22
+  offset: 2, 2
+  index: -1
+forearm_R
+  rotate: true
+  xy: 147, 4
+  size: 19, 18
+  orig: 23, 22
+  offset: 2, 2
+  index: -1
+hand_R
+  rotate: true
+  xy: 212, 6
+  size: 17, 14
+  orig: 21, 18
+  offset: 2, 2
+  index: -1
+hand_l_2
+  rotate: true
+  xy: 243, 6
+  size: 17, 12
+  orig: 21, 16
+  offset: 2, 2
+  index: -1
+hand_l_fist
+  rotate: false
+  xy: 2, 2
+  size: 12, 11
+  orig: 16, 15
+  offset: 2, 2
+  index: -1
+hand_l_fist_2
+  rotate: true
+  xy: 415, 34
+  size: 13, 14
+  orig: 17, 18
+  offset: 2, 2
+  index: -1
+hand_l_open
+  rotate: true
+  xy: 102, 3
+  size: 20, 13
+  orig: 24, 17
+  offset: 2, 2
+  index: -1
+hand_l_open_2
+  rotate: false
+  xy: 257, 8
+  size: 15, 15
+  orig: 19, 19
+  offset: 2, 2
+  index: -1
+hand_l_sword
+  rotate: true
+  xy: 431, 34
+  size: 13, 12
+  orig: 17, 16
+  offset: 2, 2
+  index: -1
+hand_r_west
+  rotate: false
+  xy: 228, 6
+  size: 13, 17
+  orig: 17, 21
+  offset: 2, 2
+  index: -1
+leg_L
+  rotate: false
+  xy: 21, 2
+  size: 22, 21
+  orig: 26, 21
+  offset: 3, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 117, 4
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 274, 2
+  size: 29, 28
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 15
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+shoulder_L
+  rotate: false
+  xy: 167, 5
+  size: 25, 18
+  orig: 29, 22
+  offset: 2, 2
+  index: -1
+shoulder_R
+  rotate: true
+  xy: 371, 45
+  size: 31, 27
+  orig: 35, 31
+  offset: 2, 2
+  index: -1
+thigh_R
+  rotate: false
+  xy: 344, 43
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1

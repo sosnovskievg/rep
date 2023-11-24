@@ -1,0 +1,114 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cart_move_blue_goblin3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.3333333333333333,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            164,
+            -194
+          ],
+          "motionPath": [
+            [
+              192,
+              -144,
+              196,
+              -170,
+              189,
+              -115
+            ]
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            150,
+            -82
+          ]
+        },
+        {
+          "frame": 0.75,
+          "value": [
+            -316.047,
+            169.279,
+            0
+          ]
+        },
+        {
+          "frame": 0.9166666666666666,
+          "value": [
+            -266.97,
+            138.408,
+            0
+          ]
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": [
+            -266.97,
+            138.408,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.23333333333333334,
+          "value": 255
+        },
+        {
+          "frame": 0.25,
+          "value": 0
+        },
+        {
+          "frame": 0.75,
+          "value": 0
+        },
+        {
+          "frame": 0.7666666666666667,
+          "value": 255
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0.1,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": -1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.11666666666666667,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "cartController",
+      "params": []
+    },
+    {
+      "frame": 1.3333333333333333,
+      "func": "goblin3Work",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goblin3_walk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5.933333333333334,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -229.908,
+            128.092,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -205.754,
+            93.809,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -164.51296246312128,
+            69.93260984707021,
+            0
+          ]
+        },
+        {
+          "frame": 1.5833333333333333,
+          "value": [
+            -116.929,
+            42.384,
+            0
+          ]
+        },
+        {
+          "frame": 2.966666666666667,
+          "value": [
+            -224.929,
+            -9.616,
+            0
+          ]
+        },
+        {
+          "frame": 3.3,
+          "value": [
+            -224.929,
+            -9.616,
+            0
+          ]
+        },
+        {
+          "frame": 4.566666666666666,
+          "value": [
+            -116.929,
+            42.384,
+            0
+          ]
+        },
+        {
+          "frame": 5.033333333333333,
+          "value": [
+            -164.51296246312128,
+            69.93260984707021,
+            0
+          ]
+        },
+        {
+          "frame": 5.55,
+          "value": [
+            -205.754,
+            93.809,
+            0
+          ]
+        },
+        {
+          "frame": 5.933333333333334,
+          "value": [
+            -229.908,
+            128.092,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "goblinWalk",
+      "params": []
+    },
+    {
+      "frame": 1,
+      "func": "goblin3Fall",
+      "params": []
+    },
+    {
+      "frame": 1.5833333333333333,
+      "func": "changeGoblinScale",
+      "params": []
+    },
+    {
+      "frame": 2.966666666666667,
+      "func": "goblinInteraction",
+      "params": []
+    },
+    {
+      "frame": 2.966666666666667,
+      "func": "changeLane",
+      "params": []
+    },
+    {
+      "frame": 3.3,
+      "func": "goblinWalk",
+      "params": []
+    },
+    {
+      "frame": 3.3,
+      "func": "changeGoblinScale",
+      "params": []
+    },
+    {
+      "frame": 4.566666666666666,
+      "func": "changeGoblinScale",
+      "params": []
+    },
+    {
+      "frame": 4.633333333333334,
+      "func": "goblin3Fall",
+      "params": []
+    },
+    {
+      "frame": 5.933333333333334,
+      "func": "changeGoblinScale",
+      "params": []
+    },
+    {
+      "frame": 5.933333333333334,
+      "func": "goblinIdle",
+      "params": []
+    }
+  ]
+}

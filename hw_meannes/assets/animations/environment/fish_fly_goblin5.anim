@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish_fly_goblin5",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -79.5,
+            182.1
+          ],
+          "motionPath": [
+            [
+              -121,
+              251.9,
+              -93.5,
+              239.6,
+              -147.5,
+              263.8
+            ]
+          ]
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            -187.5,
+            230.4
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": 255
+        },
+        {
+          "frame": 0.3,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

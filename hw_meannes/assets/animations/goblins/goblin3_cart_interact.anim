@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goblin3_cart_interact",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.05,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -229.908,
+            128.092,
+            0
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": -1
+        },
+        {
+          "frame": 1.0333333333333334,
+          "value": -1
+        },
+        {
+          "frame": 1.05,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.05,
+      "func": "goblinInteraction",
+      "params": []
+    }
+  ]
+}

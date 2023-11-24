@@ -1,0 +1,34 @@
+enum Events {
+    WINDOW_RESIZED,
+
+    CAMERA_ZOOM,
+    CAMERA_SHAKE,
+
+    INPUT,
+
+    EFFECT_SPAWN,
+
+    RESULT,
+
+    UPDATE_TICK,
+
+    PLAYABLE_START,
+    FIRST_TAP,
+    // INACTIVE,
+    RESULT_SHOW,
+    REDIRECT,
+    PLAYER_ACTION,
+    PLAYABLE_RESTART,
+    SET_CAMERA_BOX,
+    SET_ACTIVE_ACTIONS,
+    HIDE_ALL_ACTIONS,
+    FAIL,
+    ACTION_RUN,
+    ACTION_END,
+    FIRST_ENEMY_DIE,
+    WIN,
+    TUTORIAL_HIDE,
+    AUDIO_PLAY,
+}
+
+export default Events;

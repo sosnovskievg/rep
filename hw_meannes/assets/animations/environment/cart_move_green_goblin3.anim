@@ -1,0 +1,142 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cart_move_green_goblin3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            164.4,
+            -194.4
+          ],
+          "motionPath": [
+            [
+              267.2,
+              -115.8,
+              246.4,
+              -154.9,
+              287.4,
+              -77.9
+            ]
+          ]
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": [
+            246.4,
+            -40.4
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": [
+            66.6,
+            185
+          ],
+          "motionPath": [
+            [
+              103.8,
+              154.3,
+              102.9,
+              168.9,
+              104.5,
+              141.2
+            ]
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            69.7,
+            129.3
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 4,
+          "value": [
+            69.7,
+            129.3,
+            0
+          ]
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0.23333333333333334,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": -1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.25,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.8833333333333333,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1,
+            "y": 1,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.9,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": -1,
+            "y": 1,
+            "z": 1
+          }
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0.31666666666666665,
+          "value": 255
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 0
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": 0
+        },
+        {
+          "frame": 0.85,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "cartController",
+      "params": []
+    },
+    {
+      "frame": 4,
+      "func": "goblin3Walk",
+      "params": []
+    }
+  ]
+}

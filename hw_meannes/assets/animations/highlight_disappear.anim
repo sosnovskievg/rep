@@ -1,0 +1,163 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "highlight_disappear",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "leverHolder/highlight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "leverHolder copy/highlight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "fish/Highlight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "red_crystal/Highlight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "coin/Highlight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "TopFloor/crystal/Highlight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "green_crystal/Highlight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "CraneHolder/highlight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "BridgeHolder/Bridge/Highlight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bag/Highlight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
